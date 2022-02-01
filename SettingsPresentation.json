@@ -1,1 +1,5 @@
-{ "0.1.0": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/SettingsPresentation/0.1.0/framework.zip", "0.1.1": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/SettingsPresentation/0.1.1/framework.zip", "0.1.2": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/SettingsPresentation/0.1.2/framework.zip" }
+{ 
+  "0.1.0": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/SettingsPresentation/0.1.0/framework.zip", 
+  "0.1.1": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/SettingsPresentation/0.1.1/framework.zip", 
+  "0.1.2": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/SettingsPresentation/0.1.2/framework.zip" 
+}
