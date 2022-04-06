@@ -1,1 +1,4 @@
-{ "2.7.0": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/FirebaseIntegrationLite/2.7.0/framework.zip", "2.6.4": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/FirebaseIntegrationLite/2.6.4/framework.zip", "2.7.1": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/FirebaseIntegrationLite/2.7.1/framework.zip" }
+{
+  "2.7.0": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/FirebaseIntegrationLite/2.7.0/framework.zip",
+  "2.7.1": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/FirebaseIntegrationLite/2.7.1/framework.zip"
+}
