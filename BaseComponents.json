@@ -1,5 +1,1 @@
-{
-  "0.3.4": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/BaseComponents/0.3.4/framework.zip",
-  "0.3.5": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/BaseComponents/0.3.5/framework.zip",
-  "0.3.6": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/BaseComponents/0.3.6/framework.zip"
-}
+{ "0.3.4": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/BaseComponents/0.3.4/framework.zip", "0.3.5": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/BaseComponents/0.3.5/framework.zip", "0.3.6": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/BaseComponents/0.3.6/framework.zip" }
