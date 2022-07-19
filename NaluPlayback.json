@@ -1,4 +1,1 @@
-{
-   "0.2.0":"https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/NaluPlayback/0.2.0/framework.zip",
-   "0.2.1":"https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/NaluPlayback/0.2.1/framework.zip"
-}
+{ "0.2.0": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/NaluPlayback/0.2.0/framework.zip", "0.2.1": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/NaluPlayback/0.2.1/framework.zip", "1.0.0": "https://raw.githubusercontent.com/NaluApp/Nalu-Products/main/NaluPlayback/1.0.0/framework.zip" }
